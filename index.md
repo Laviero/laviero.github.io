@@ -43,7 +43,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="laviero.github.io/42.jpg" style="width:100%">
+  <img src="42.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
@@ -55,7 +55,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="C:\Users\lavie\Documents\GitHub\website\img\42.jpg" style="width:100%">
+  <img src="42.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
