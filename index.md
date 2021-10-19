@@ -26,8 +26,10 @@
             </div>
                 <div class="flex-container2">
                     <!-- block the second container  -->
-                    <div><button type="button">Click Me!</button></div>
-                    <div><button type="button">Click Me!</button></div>
+                    <div><button type="button">   <img src="42.jpg" style="width:100%">
+Click Me!</button></div>
+                    <div><button type="button">   <img src="Screenshot_test.jpg" style="width:100%">
+Click Me!</button></div>
                     <div><button type="button">  <img src="IMG_20201003_155423.jpg" style="width:100%">
 Click Me!</button></div>
                 </div>
@@ -43,7 +45,7 @@ Click Me!</button></div>
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="Screenshot_test.png" style="width:100%">
+  <img src="Screenshot_test.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
