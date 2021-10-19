@@ -28,7 +28,7 @@
                     <!-- block the second container  -->
                     <div><button type="button">Click Me!</button></div>
                     <div><button type="button">Click Me!</button></div>
-                    <div><button type="button">  <img src="rendezvous.mp4" style="width:100%">
+                    <div><button type="button">  <img src="IMG_20201003_155423.jpg" style="width:100%">
 Click Me!</button></div>
                 </div>
 
@@ -43,13 +43,13 @@ Click Me!</button></div>
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="42.jpg" style="width:100%">
+  <img src="Screenshot 2021-07-03 140607.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="rendezvous.mp4" style="width:100%">
+  <img src="IMG_20200919_152735.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
