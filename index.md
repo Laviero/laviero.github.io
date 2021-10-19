@@ -28,7 +28,8 @@
                     <!-- block the second container  -->
                     <div><button type="button">Click Me!</button></div>
                     <div><button type="button">Click Me!</button></div>
-                    <div><button type="button">Click Me!</button></div>
+                    <div><button type="button">  <img src="rendezvous.mp4" style="width:100%">
+Click Me!</button></div>
                 </div>
 
                 <!-- I want to add a slideshow created with David technic with Jupyternotebook -->
@@ -48,7 +49,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="42.jpg" style="width:100%">
+  <img src="rendezvous.mp4" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
