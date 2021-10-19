@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
     <head>
@@ -37,7 +36,7 @@
                 <!-- end slideshow snippet -->
                 <!-- I will try with W3 suggestion of a automatic slideshow -->
                 <!-- <h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p> -->
+<!-- <p>Change image every 2 seconds:</p> -->
 
 <div class="slideshow-container">
 
