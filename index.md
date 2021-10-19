@@ -43,7 +43,7 @@ Click Me!</button></div>
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="Screenshot 2021-07-03 140607.png" style="width:100%">
+  <img src="Screenshot_test.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
